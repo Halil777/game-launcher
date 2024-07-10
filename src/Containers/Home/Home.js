@@ -145,10 +145,10 @@ const Home = (props) => {
             <div className={styles.splash}>
               <h1>Game Store</h1>
               <p className={styles.intro}>
-                The best destination to buy new games to competitive prices. 24
-                hour support, "best price" guarantee and a flawless UX. Wish for
-                more? Tell us <span className={styles.here}>below</span> — or
-                check out our <span className={styles.careers}>careers.</span>
+                Explore a wide selection of games and play them using our
+                powerful servers for an optimal experience. Enjoy 24/7 support
+                and a seamless user interface. Ready to play? Register now and
+                dive into the action.
               </p>
             </div>
 
