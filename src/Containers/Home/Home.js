@@ -146,7 +146,7 @@ const Home = (props) => {
               <h1>Game Store</h1>
               <p className={styles.intro}>
                 Explore a wide selection of games and play them using our
-                powerful servers for an optimal experience. Enjoy 24/7 support
+                powerful servers for an optimal experience. Enjoy 24/7 support ,
                 and a seamless user interface. Ready to play? Register now and
                 dive into the action.
               </p>
