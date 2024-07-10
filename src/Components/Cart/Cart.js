@@ -103,7 +103,7 @@ const Cart = (props) => {
               alignItems: "center",
             }}
           >
-            <h3>Total: ${newTotal}</h3>
+            {/* <h3>Total: ${newTotal}</h3> */}
             <button
               id="24"
               onMouseEnter={handleHover}
